@@ -1,0 +1,12 @@
+{
+  "name": "nguemoue/composer-roast",
+  "description": "Score a composer.lock: abandonment, age, missing licenses, and a line you can paste in a PR. One PHP file, zero dependencies.",
+  "type": "project",
+  "license": "MIT",
+  "bin": [
+    "composer-roast.php"
+  ],
+  "require": {
+    "php": ">=8.1"
+  }
+}

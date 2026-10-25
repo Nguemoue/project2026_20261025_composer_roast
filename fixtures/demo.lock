@@ -1,0 +1,19 @@
+{
+  "content-hash": "fixture-demo-not-a-real-project",
+  "packages": [
+    {"name": "laravel/framework", "version": "v10.48.22", "time": "2024-07-16T00:00:00+00:00", "license": ["MIT"]},
+    {"name": "nesbot/carbon", "version": "2.72.6", "time": "2024-07-16T00:00:00+00:00", "license": ["MIT"]},
+    {"name": "doctrine/cache", "version": "2.2.0", "time": "2022-08-10T00:00:00+00:00", "license": ["MIT"], "abandoned": "psr/cache"},
+    {"name": "swiftmailer/swiftmailer", "version": "v6.3.0", "time": "2021-11-10T00:00:00+00:00", "license": ["MIT"], "abandoned": "symfony/mailer"},
+    {"name": "fideloper/proxy", "version": "4.4.2", "time": "2019-04-01T00:00:00+00:00", "license": ["MIT"], "abandoned": "illuminate/http"},
+    {"name": "guzzlehttp/guzzle", "version": "7.9.2", "time": "2024-12-01T00:00:00+00:00", "license": ["MIT"]},
+    {"name": "monolog/monolog", "version": "3.8.0", "time": "2025-01-15T00:00:00+00:00", "license": ["MIT"]},
+    {"name": "ramsey/uuid", "version": "4.7.6", "time": "2024-03-02T00:00:00+00:00", "license": ["MIT"]},
+    {"name": "psr/log", "version": "1.1.4", "time": "2019-05-03T00:00:00+00:00", "license": ["MIT"]},
+    {"name": "doctrine/annotations", "version": "1.13.3", "time": "2021-10-01T00:00:00+00:00", "license": ["MIT"], "abandoned": true}
+  ],
+  "packages-dev": [
+    {"name": "phpunit/phpunit", "version": "10.5.36", "time": "2024-09-01T00:00:00+00:00", "license": ["BSD-3-Clause"]},
+    {"name": "fakerphp/faker", "version": "v1.23.1", "time": "2023-12-18T00:00:00+00:00", "license": ["MIT"]}
+  ]
+}

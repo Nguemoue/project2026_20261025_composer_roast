@@ -1,0 +1,43 @@
+{
+  "content-hash": "fixture-scored",
+  "packages": [
+    {
+      "name": "fresh/alpha",
+      "version": "v1.2.0",
+      "time": "2026-09-01T00:00:00+00:00",
+      "license": ["MIT"]
+    },
+    {
+      "name": "edge/stale",
+      "version": "v0.9.0",
+      "time": "2024-10-25T00:00:00+00:00",
+      "license": "MIT"
+    },
+    {
+      "name": "old/thing",
+      "version": "v2.0.0",
+      "time": "2023-01-01T00:00:00+00:00",
+      "license": ["MIT"]
+    },
+    {
+      "name": "fossil/lib",
+      "version": "v1.0.0",
+      "time": "2022-10-25T00:00:00+00:00",
+      "license": ["MIT"]
+    }
+  ],
+  "packages-dev": [
+    {
+      "name": "dead/pkg",
+      "version": "v3.1.0",
+      "time": "2026-08-01T00:00:00+00:00",
+      "abandoned": true
+    },
+    {
+      "name": "mystery/x",
+      "version": "v0.0.1",
+      "license": ["MIT"],
+      "abandoned": "  new/pkg  "
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "content-hash": "fixture-healthy",
+  "packages": [
+    {
+      "name": "ok/a",
+      "version": "v1.0.0",
+      "time": "2026-09-01T00:00:00+00:00",
+      "license": ["MIT"]
+    },
+    {
+      "name": "ok/b",
+      "version": "v2.0.0",
+      "time": "2026-09-01T12:00:00+00:00",
+      "license": ["BSD-3-Clause"]
+    }
+  ],
+  "packages-dev": [
+    {
+      "name": "ok/dev",
+      "version": "v1.4.0",
+      "time": "2026-10-01T00:00:00+00:00",
+      "license": "MIT"
+    }
+  ]
+}
